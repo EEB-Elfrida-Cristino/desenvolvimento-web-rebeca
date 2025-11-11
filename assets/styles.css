@@ -26,9 +26,6 @@ main {
     gap: 20px;
 }
 
-#roma {
-    list-style: lower-greek;
-}
 
 footer {
     background-color: lightslategray;
